@@ -1,0 +1,31 @@
+﻿ID,Intent,Question,Response,Persona,Tone
+1,Account Setup,How can I create an account?,You can create your account by clicking on the “Sign Up” button and verifying your email or mobile number.,New user,Friendly
+2,Password Reset,"I forgot my password, what should I do?",No worries! Click on “Forgot Password” on the login page and follow the instructions to reset your password.,Customer,Supportive
+3,App Crash,The app keeps crashing on my phone.,"We’re sorry for the inconvenience. Please clear cache, update to the latest version, or reinstall the app.",Technical user,Empathetic
+4,Payment Issue,"My payment failed, but money got deducted.",We apologize for the issue. Your refund will be processed automatically within 5–7 business days.,Customer,Professional
+5,Refund Request,How can I request a refund?,You can request a refund by visiting the “Orders” section and selecting the item to initiate a return or refund.,Customer,Calm
+6,Order Delay,My order hasn’t arrived yet.,"Sorry for the delay! Please check your order status in the “My Orders” section. If it’s late, contact our delivery support.",Customer,Apologetic
+7,Delivery Tracking,How can I track my delivery?,You can track your delivery in the “My Orders” section or via the link shared through SMS.,Customer,Helpful
+8,Profile Update,I want to change my phone number.,You can edit your phone number in the “Profile” section under Account Settings.,User,Supportive
+9,Delete Account,How can I delete my account permanently?,We’re sad to see you go! You can permanently delete your account from the Privacy Settings page.,User,Respectful
+10,Feedback,How can I share feedback?,You can share your feedback from the “Help & Feedback” section or by emailing us at support@company.com.,Customer,Appreciative
+11,Subscription Plan,What are your subscription plans?,"We offer Basic, Premium, and Enterprise plans. Visit our pricing page for full details.",Customer,Informative
+12,App Update,Do I need to update the app manually?,"App updates are automatic, but you can also update manually via the Play Store or App Store.",User,Friendly
+13,Login Error,I can’t log in to my account.,Please ensure your internet connection is stable and your credentials are correct. Try resetting your password if the issue persists.,Customer,Supportive
+14,OTP Issue,I’m not receiving OTP.,Please wait a few minutes and ensure your number is active. You may also try “Resend OTP.”,User,Helpful
+15,Technical Glitch,The page is not loading.,"Please refresh the page or try again later. If it continues, contact our technical support team.",Technical,Calm
+16,Data Privacy,How secure is my personal data?,Your data is encrypted and securely stored following GDPR and data protection laws.,Concerned user,Reassuring
+17,Developer Info,How can I contact the developer?,You can reach the developer through our official email: dev@company.com.,Developer,Neutral
+18,Version Info,Which app version should I use?,Always use the latest app version to enjoy new features and security updates.,Technical,Informative
+19,Language Settings,How to change the app language?,Go to “Settings > Language” and choose your preferred language.,User,Supportive
+20,Help Center,How can I contact customer care?,"You can contact our customer care via chat, email, or toll-free number 1800-123-000.",Customer,Friendly
+21,Account Verification,My account is not verified.,Please check your email for the verification link or request a new one from your profile settings.,User,Calm
+22,App Performance,The app is slow.,"Try clearing cache, closing background apps, or reinstalling the latest version.",Technical,Helpful
+23,Offer Inquiry,Are there any current discounts?,Yes! Visit the “Offers” section on the home page for current deals and promotions.,Customer,Cheerful
+24,Product Info,How can I get more details about a product?,"Click on the product image or name to view detailed information, specs, and reviews.",Customer,Informative
+25,Notification Settings,How to stop promotional notifications?,Go to “Settings > Notifications” and turn off promotional alerts.,User,Calm
+26,Bug Report,I found a bug in the app.,Thank you for reporting! Please share details at bug@company.com so our team can fix it.,Technical,Appreciative
+27,Data Download,How can I download my data?,Go to “Privacy Settings” and click on “Download My Data.”,User,Professional
+28,App Compatibility,Does the app work on iOS?,"Yes, it’s available on both Android and iOS platforms.",Technical,Informative
+29,Developer Response,How long do developers take to reply?,Usually within 24–48 hours depending on query type.,Developer,Professional
+30,Escalation,I’m not satisfied with support response.,We’re sorry for the inconvenience. Your issue will be escalated to a senior support representative.,Customer,Apologetic
