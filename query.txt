@@ -1,0 +1,63 @@
+🔐 Account & Login
+
+“How can I create a new account?”
+
+“I forgot my password, what should I do?”
+
+“I can’t log in even after resetting my password.”
+
+“My account is not verified yet.”
+
+💳 Payment, Refund & Orders
+
+“My payment failed but money was deducted.”
+
+“How can I request a refund?”
+
+“My order hasn’t arrived yet.”
+
+“How can I track my delivery status?”
+
+⚙️ App & Technical Issues
+
+“The app keeps crashing on my phone.”
+
+“The page is not loading properly.”
+
+“The app is too slow — what can I do?”
+
+“Do I need to update the app manually?”
+
+“Does the app work on iOS?”
+
+🔒 Data & Privacy
+
+“How secure is my personal data?”
+
+“How can I download my stored data?”
+
+🧑‍💻 Developer & Technical Info
+
+“How can I contact the developer?”
+
+“How long does it take for the developer to reply?”
+
+“Which app version should I use?”
+
+💬 General Support
+
+“How can I contact customer care?”
+
+“I’m not satisfied with the support response — can you escalate my issue?”
+
+“How can I stop promotional notifications?”
+
+“How do I share feedback or report a bug?”
+
+💰 Offers & Subscription
+
+“What are your subscription plans?”
+
+“Are there any current discounts or promotions?”
+
+“How can I view detailed information about a product?”
